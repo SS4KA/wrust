@@ -57,3 +57,4 @@
 1. Постоянное обновление в соответствии с патчами игры
 2. Удобный и интуитивный интерфейс
 3. Планы по интеграции уникальных AI-функций
+[https://docs.google.com/document/d/18CcJsZhsWrO4_xUPkF698HSKUpdWpwEX9KGyZiNrDbs/edit?usp=sharing]
