@@ -24,7 +24,7 @@
 **Фронтенд:**
 - React,CSS,HTML,JS
 - Современная отзывчивая адаптивная верстка
-- [ссылка на вёрстку в figma]
+- [https://www.figma.com/design/NPe8IG1IxcvnBZYjcjWse5/wrust?node-id=0-1&t=0B1O1aJmL7MMNlOX-1]
 
 **Хранение данных:**
 - Локальная база данных для статической информации
